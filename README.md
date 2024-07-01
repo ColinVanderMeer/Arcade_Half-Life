@@ -1,1 +1,5 @@
-Just copy and paste the bsp files into your valve\maps folder and run "map aMap1" in the console. Web version coming soon
+# Arcade Half-Life Campaign
+
+This was a (very) short little Half-Life Campaign made for Hack Club Arcade.
+
+To play just copy all of the .bsp files into `Half-Life\valve\maps` (requires a copy of Half-Life on steam)
